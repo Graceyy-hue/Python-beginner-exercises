@@ -17,7 +17,7 @@ Each exercise is solved step by step in a Jupyter Notebook, with clear comments 
 
 ## 🧠 Current Progress
 
-✅ **Completed:** 15 / 50 exercises  
+✅ **Completed:** 22 / 50 exercises  
 🚧 **In progress:** Continuing daily updates until all 50 exercises are complete  
 
 I’m updating this repository regularly as I complete more exercises.
